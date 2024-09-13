@@ -1,3 +1,4 @@
+// Cac phan tu trong chuoi + them 1
 import React, { useState } from 'react'
 import { View, Text, Button } from 'react-native'
 
